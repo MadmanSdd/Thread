@@ -10,6 +10,7 @@ public class Main {
 		//Usando metodo thread		
 		//ThreadOne.onethread();
 		//ThreadTwo.twothread();
+		//
 		
 		//Uso de Runnable
 		Thread thEmail = new Thread(RunnableCustomized.ThreadsEmail);
